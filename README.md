@@ -1,16 +1,74 @@
-# React + Vite
+# 🌈 Mood Journal App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blue)
 
-Currently, two official plugins are available:
+A **simple and responsive React app** that lets you select your mood and enjoy animated messages.  
+Built with **React.js**, **Vite**, and **GSAP**, keeping it lightweight (<15MB) and engaging.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎨 Demo
+View the live demo:  
+🔗 *(https://mood-journal-olive.vercel.app)*  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Select a mood and enjoy **custom animations** 🎨  
+- Inspirational messages for each mood 💬  
+- **GSAP animations** for smooth transitions ✨  
+- Fully **responsive design** 📱  
+- Beginner-friendly and lightweight ⚡  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💭 Supported Moods
+| Mood        | Emoji | 
+|-------------|-------|
+| Happy       | 😊    |
+| Sad         | 😢    |
+| Stressed    | 😓    |
+| Motivated   | 💪    | 
+
+---
+
+## 🛠 Technologies Used
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [GSAP](https://greensock.com/gsap/)
+- HTML5 & CSS3
+
+---
+yaml
+Copy code
+
+---
+
+## 💻 Installation & Setup
+1. Clone the repository  
+```bash
+git clone https://github.com/Anas2604-web/Mood-Journal.git
+Install dependencies
+
+bash
+Copy code
+npm install
+Start the app
+
+bash
+Copy code
+npm run dev
+
+📜 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+🤝 Contributing
+Contributions are welcome!
+If you find a bug or have a feature request, please open an issue or submit a pull request.
+This project is part of Hacktoberfest — all contributions are appreciated ❤️.
+
+Made with ❤️ by Anas Khan
